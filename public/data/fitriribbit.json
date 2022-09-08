@@ -1,1 +1,28 @@
-
+{
+    "name": "FITRI RIBBIT",
+    "type": "personal",
+    "bio": "Open Source Enthusiast!",
+    "avatar": "https://github.com/FitriRibbit.png",
+    "links": [
+      {
+        "name": "Follow me on GitHub",
+        "url": "https://github.com/FitriRibbit",
+        "icon": "github"
+      },
+      {
+        "name": "Follow me on Twitter",
+        "url": "https://twitter.com/YOUR_TWITTER_USERNAME",
+        "icon": "twitter"
+      }
+    ],
+    "milestones": [
+      {
+        "title": "Started Freelancing",
+        "date": "December 2021",
+        "icon": "dollar",
+        "color": "grey",
+        "description": "Started freelancing",
+        "url": "https://www.eddiejaoude.io/FitriRibbit"
+      }
+    ]
+  }
